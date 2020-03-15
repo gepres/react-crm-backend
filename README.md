@@ -1,9 +1,9 @@
 # REACT CRM BACK END
 
-## link de front end 
+## Link de front end 
 * [repositorio front end](https://github.com/gepres/react-crm-frontend)
-* [link pagina]()
-## Cateristicas
+* [link pagina](https://react-crm.netlify.com/)
+## Caracteristicas
 * mongodb
 * cloudinary
 * JWT
